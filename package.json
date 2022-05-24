@@ -1,0 +1,21 @@
+{
+  "name": "cli.ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/alien-valley/cli.ts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^9.2.0",
+    "ts-node": "^10.8.0",
+    "typescript": "^4.6.4",
+    "znn-ts-sdk": "github:dexter703/znn-ts-sdk"
+  }
+}
